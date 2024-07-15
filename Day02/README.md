@@ -8,5 +8,5 @@ This repository documents my progress in the 45-day DSA challenge.
 - [x] Day 2: in Progress... 
 
 ## Daily Folders
-- [Day 1](./Day01)
+- [Day 1](.CrackYourPlacement/Day01)
 - [Day 2](./Day02)

@@ -1,4 +1,5 @@
 //122. Best Time to Buy and Sell Stock II
+//Time Complexity : O(N) , Space Complexity : O(1)
 class Solution {
     public int maxProfit(int[] prices) {
         int profit = 0;

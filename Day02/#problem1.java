@@ -1,4 +1,5 @@
 //442. Find All Duplicates in an Array
+//Time Complexity : O(N)  //Space Complexity: O(N)
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> duplicates = new ArrayList<>();

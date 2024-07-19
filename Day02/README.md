@@ -4,7 +4,7 @@
 This repository documents my progress in the 45-day DSA challenge.
 
 ## Progress Tracker
-- [x] Day 1: Solved 9 problems.
+- [x] Day 1: Solved 8 problems.
 - [x] Day 2: in Progress... 
 
 ## Daily Folders

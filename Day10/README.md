@@ -25,5 +25,5 @@ This repository documents my progress in the 45-day DSA challenge.
 - [Day 7](./Day07)
 - [Day 8](./Day08)
 - [Day 9](./Day09)
-- [Day 9](./Day10)
+- [Day 10](./Day10)
 

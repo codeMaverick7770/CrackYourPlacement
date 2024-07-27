@@ -16,7 +16,7 @@ This repository documents my progress in the 45-day DSA challenge.
 - [x] Day 10: Solved 4 problems.
 - [x] Day 11: Solved 3 problems.
 - [x] Day 12: Solved 6 problems.
-- [x] Day 13: In progress...
+- [x] Day 13: Solved 6 problems.
 ## Daily Folders
 - [Day 1](./Day01)
 - [Day 2](./Day02)

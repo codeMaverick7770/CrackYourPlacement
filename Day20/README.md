@@ -23,7 +23,7 @@ This repository documents my progress in the 45-day DSA challenge.
 - [x] Day 17: Solved 0 problem.
 - [x] Day 18: Solved 0 problem.
 - [x] Day 19: Solved 0 problem.
-- [x] Day 20: In Progress...
+- [x] Day 20: Solved 3 problems.
 ## Daily Folders
 - [Day 1](./Day01)
 - [Day 2](./Day02)

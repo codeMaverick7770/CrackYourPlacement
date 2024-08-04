@@ -1,4 +1,6 @@
-
+// Removing a node from nth index from the last node of a singly linked list.
+// Approach: Calculate the length of the node, n and find the distance of the node to be deleted with respect to the first node. Reach the pointer just before this node and then delete it.
+// Time: O(n) & Space: O(1)
 
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {

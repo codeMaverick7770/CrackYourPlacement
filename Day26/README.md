@@ -29,7 +29,7 @@ This repository documents my progress in the 45-day DSA challenge.
 - [x] Day 23: Solved 4 problems.
 - [x] Day 24: Solved 0 problem.
 - [x] Day 25: Solved 2 problems.
-- [x] Day 26: Solved x problems.
+- [x] Day 26: Solved 2 problems.
 
 
 ## Daily Folders

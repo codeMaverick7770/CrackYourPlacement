@@ -60,7 +60,8 @@ This repository documents my progress in the 45-day DSA challenge.
 - [Day 24](./Day24)
 - [Day 25](./Day25)
 - [Day 26](./Day26)
-- [CrackYourPlacement](./Day27)
+- [Day 27](CrackYourPlaceMent./Day26)
+
 
 
 
